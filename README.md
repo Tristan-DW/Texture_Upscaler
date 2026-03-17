@@ -1,3 +1,18 @@
+<div align="center">
+
+![GitHub last commit](https://img.shields.io/github/last-commit/Tristan-DW/Texture_Upscaler?style=for-the-badge)
+![GitHub stars](https://img.shields.io/github/stars/Tristan-DW/Texture_Upscaler?style=for-the-badge)
+![GitHub issues](https://img.shields.io/github/issues/Tristan-DW/Texture_Upscaler?style=for-the-badge)
+![License](https://img.shields.io/badge/license-MIT-blue?style=for-the-badge)
+
+# Texture_Upscaler
+
+> **A blender addon which allow the upscaling of image directly in blender using ai**
+
+</div>
+
+---
+
 <blockquote class="blockquote">
 <p>This addon is free you can buy to support development <a href="https://blendermarket.com/creator/products/texture-upscaler-image-upscaler-for-blender" target="_blank">here</a>&nbsp;😊</p>
 </blockquote>
@@ -54,3 +69,11 @@
   <p>RealESRGAN_x4Plus by xinntao</p>
   <p>4xLSDIRplusC,4xHFA2k by <a href ="https://github.com/Phhofm/models"> Helaman </a></p>
 </p>
+
+---
+
+<div align="center">
+
+**Made with love by [Tristan Wentzel](https://github.com/Tristan-DW)**
+
+</div>
