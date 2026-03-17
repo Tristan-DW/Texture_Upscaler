@@ -1,9 +1,13 @@
 <div align="center">
 
-![GitHub last commit](https://img.shields.io/github/last-commit/Tristan-DW/Texture_Upscaler?style=for-the-badge)
-![GitHub stars](https://img.shields.io/github/stars/Tristan-DW/Texture_Upscaler?style=for-the-badge)
-![GitHub issues](https://img.shields.io/github/issues/Tristan-DW/Texture_Upscaler?style=for-the-badge)
-![License](https://img.shields.io/badge/license-MIT-blue?style=for-the-badge)
+<img src="https://skillicons.dev/icons?i=github" />
+
+<br/>
+
+![GitHub last commit](https://img.shields.io/github/last-commit/Tristan-DW/Texture_Upscaler?style=for-the-badge&color=6e40c9)
+![GitHub stars](https://img.shields.io/github/stars/Tristan-DW/Texture_Upscaler?style=for-the-badge&color=f0883e)
+![GitHub issues](https://img.shields.io/github/issues/Tristan-DW/Texture_Upscaler?style=for-the-badge&color=da3633)
+![License](https://img.shields.io/badge/license-MIT-238636?style=for-the-badge)
 
 # Texture_Upscaler
 
@@ -13,8 +17,22 @@
 
 ---
 
+<div align="center">
+
+![GitHub last commit](https://img.shields.io/github/last-commit/Tristan-DW/Texture_Upscaler?style=for-the-badge)
+![GitHub stars](https://img.shields.io/github/stars/Tristan-DW/Texture_Upscaler?style=for-the-badge)
+![GitHub issues](https://img.shields.io/github/issues/Tristan-DW/Texture_Upscaler?style=for-the-badge)
+![License](https://img.shields.io/badge/license-MIT-blue?style=for-the-badge)
+
+
+> **A blender addon which allow the upscaling of image directly in blender using ai**
+
+</div>
+
+---
+
 <blockquote class="blockquote">
-<p>This addon is free you can buy to support development <a href="https://blendermarket.com/creator/products/texture-upscaler-image-upscaler-for-blender" target="_blank">here</a>&nbsp;😊</p>
+<p>This addon is free you can buy to support development <a href="https://blendermarket.com/creator/products/texture-upscaler-image-upscaler-for-blender" target="_blank">here</a>&nbsp;</p>
 </blockquote>
 <p><span style="font-weight: bolder;">Features:</span></p>
 <ul>
@@ -75,5 +93,13 @@
 <div align="center">
 
 **Made with love by [Tristan Wentzel](https://github.com/Tristan-DW)**
+
+</div>
+
+---
+
+<div align="center">
+
+<sub>Built by <a href="https://github.com/Tristan-DW">Tristan Wentzel</a></sub>
 
 </div>
